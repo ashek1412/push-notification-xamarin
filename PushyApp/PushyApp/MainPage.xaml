@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PushyApp.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="Black" Padding="24" CornerRadius="0">
+            <Label Text="ECU Manager" HorizontalTextAlignment="Center" TextColor="Red" FontSize="36"/>
+        </Frame>
+        <Label  x:Name="pageTitle" HorizontalTextAlignment="Center" Text="You will Get Notification after New File is Submitted" FontSize="24" TextColor="Navy" Padding="30,10,30,10"/>
+        <Label x:Name="Pengingecufile"  Padding="30,10,30,10" HorizontalTextAlignment="Left" IsVisible="true" Text="" FontSize="18"  TextColor="Black"  />
+
+
+       
+
+       
+        <StackLayout Orientation="Horizontal"  HorizontalOptions="FillAndExpand">
+            <StackLayout Orientation="Vertical"  HorizontalOptions="FillAndExpand">
+                <Button x:Name="startButton"
+                Text="Start"             
+                 Clicked="startButtonClicked" BackgroundColor="LightGreen"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical"  HorizontalOptions="FillAndExpand" >
+                <Button x:Name="stopButton" BackgroundColor="Pink"
+                Text="Stop"               
+                Clicked="stopButtonClicked" />
+            </StackLayout>
+        </StackLayout>
+
+    </StackLayout>
+    
+
+</ContentPage>

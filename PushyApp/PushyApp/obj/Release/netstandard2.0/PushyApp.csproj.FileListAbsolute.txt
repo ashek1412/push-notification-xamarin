@@ -1,0 +1,13 @@
+F:\dev\dotnet\mobile\PushyApp\PushyApp\PushyApp\bin\Release\netstandard2.0\PushyApp.deps.json
+F:\dev\dotnet\mobile\PushyApp\PushyApp\PushyApp\bin\Release\netstandard2.0\PushyApp.dll
+F:\dev\dotnet\mobile\PushyApp\PushyApp\PushyApp\bin\Release\netstandard2.0\ref\PushyApp.dll
+F:\dev\dotnet\mobile\PushyApp\PushyApp\PushyApp\bin\Release\netstandard2.0\PushyApp.pdb
+F:\dev\dotnet\mobile\PushyApp\PushyApp\PushyApp\obj\Release\netstandard2.0\App.xaml.g.cs
+F:\dev\dotnet\mobile\PushyApp\PushyApp\PushyApp\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+F:\dev\dotnet\mobile\PushyApp\PushyApp\PushyApp\obj\Release\netstandard2.0\PushyApp.AssemblyInfoInputs.cache
+F:\dev\dotnet\mobile\PushyApp\PushyApp\PushyApp\obj\Release\netstandard2.0\PushyApp.AssemblyInfo.cs
+F:\dev\dotnet\mobile\PushyApp\PushyApp\PushyApp\obj\Release\netstandard2.0\PushyApp.csproj.CoreCompileInputs.cache
+F:\dev\dotnet\mobile\PushyApp\PushyApp\PushyApp\obj\Release\netstandard2.0\XamlC.stamp
+F:\dev\dotnet\mobile\PushyApp\PushyApp\PushyApp\obj\Release\netstandard2.0\PushyApp.dll
+F:\dev\dotnet\mobile\PushyApp\PushyApp\PushyApp\obj\Release\netstandard2.0\ref\PushyApp.dll
+F:\dev\dotnet\mobile\PushyApp\PushyApp\PushyApp\obj\Release\netstandard2.0\PushyApp.pdb
